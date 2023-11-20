@@ -13,13 +13,13 @@ In the ever-evolving landscape of web technology, web crawling and scraping have
 
 ### Project Uniqueness
 
-Use of Curl Library in C++: Leveraging the Curl library in a C++ web crawler sets our project apart, as this library might not be commonly utilized in similar projects on platforms like GitHub.
+**Use of Curl Library in C++:** Leveraging the Curl library in a C++ web crawler sets our project apart, as this library might not be commonly utilized in similar projects.
 
-Implementation of Multithreading in Rust: Employing multithreading in your Rust web crawler demonstrates a modern concurrency approach, showcasing the efficiency and parallelism that Rust can offer in web crawling applications.
+**Implementation of Multithreading in Rust:** Employing multithreading in our Rust web crawler demonstrates a modern concurrency approach, showcasing the efficiency and parallelism that Rust can offer in web crawling applications.
 
-Focus on Performance: Our project emphasizes performance optimizations, unique algorithms, or specific data structures tailored for crawling, highlight these aspects. These optimizations can set your project apart in terms of efficiency and speed.
+**Focus on Performance:** Our project emphasizes performance optimizations, unique algorithms, or specific data structures tailored for crawling, highlight these aspects. These optimizations can set our project apart in terms of efficiency and speed.
 
-Extensibility and Modularity: If your codebase emphasizes extensibility through a modular architecture, allowing easy addition of new functionalities or support for different protocols or formats, emphasize these design choices.
+**Extensibility and Modularity:** Our codebase emphasizes extensibility through a modular architecture, allowing easy addition of new functionalities or support for different protocols or formats, emphasize these design choices.
 
 ## POPL Concepts
 
@@ -53,7 +53,6 @@ let starting_url = "https://example.com".to_string();
 C++:
 ```
 std::string startingURL = "https://example.com"; // String manipulation in C++ is more verbose
-
 ```
 
 ### 3. Memory Safety and Ownership Model:
